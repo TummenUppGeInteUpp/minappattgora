@@ -17,3 +17,4 @@ firebase.initializeApp(firebaseConfig);
 
 // Exportera Firestore-instansen
 export const firestore = firebase.firestore();
+
