@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.task-item {
+  /* Din befintliga stil för uppgifter */
+}
+
+.low {
+  background-color: #c7e0c7;
+}
+
+.medium {
+  background-color: #f0e68c;
+}
+
+.high {
+  background-color: #f08080;
+}
+
+.arbete {
+  /* Färgkod för arbete */
+}
+
+personligt {
+  /* Färgkod för personligt */
+}
+
+studier {
+  /* Färgkod för studier */
+}
